@@ -51,7 +51,7 @@ The Table below shows the best food items that are avilable in paris which are U
 
 ### Code Fencing
 
-Description: Combinatorics is a branch of mathematics which is about counting – and we will discover many exciting examples of “things” you can count.
+Description: Combinatorics is a branch of mathematics which is about counting – and we will discover many exciting examples of “things” you can count.<br>
 '''
 int fact_pow (int n, int k) {
     int res = 0;
@@ -62,4 +62,4 @@ int fact_pow (int n, int k) {
     return res;
 }
 '''
-Source Code: <https://cp-algorithms.com/algebra/factorial-divisors.html>
+Source Code: <https://mathigon.org/world/Combinatorics>
