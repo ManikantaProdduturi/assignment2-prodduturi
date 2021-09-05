@@ -46,3 +46,20 @@ The Table below shows the best food items that are avilable in paris which are U
 > It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.- *J.K. Rowling*
 
 >> You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.- *Maya Angelou*
+
+--------------------
+
+### Code Fencing
+
+Description: Combinatorics is a branch of mathematics which is about counting – and we will discover many exciting examples of “things” you can count.
+'''
+int fact_pow (int n, int k) {
+    int res = 0;
+    while (n) {
+        n /= k;
+        res += n;
+    }
+    return res;
+}
+'''
+Source Code: <https://cp-algorithms.com/algebra/factorial-divisors.html>
