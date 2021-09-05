@@ -54,13 +54,13 @@ The Table below shows the best food items that are avilable in paris which are U
 Description: Combinatorics is a branch of mathematics which is about counting – and we will discover many exciting examples of “things” you can count.<br>
 Source Code: <https://mathigon.org/world/Combinatorics><br>
 '''
-int fact_pow (int n, int k) {
-    int res = 0;
-    while (n) {
-        n /= k;
-        res += n;
-    }
-    return res;
-}
+int fact_pow (int n, int k) {<br>
+    int res = 0;<br>
+    while (n) {<br>
+        n /= k;<br>
+        res += n;<br>
+    }<br>
+    return res;<br>
+}<br>
 '''<br>
 Source Code: <https://cp-algorithms.com/algebra/factorial-divisors.html>
