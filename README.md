@@ -40,3 +40,9 @@ The Table below shows the best food items that are avilable in paris which are U
 | Rue des           | Des Martyrs          | 15$     |
 
 --------------------
+
+### Pithy Quotes
+
+> It is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.- *J.K. Rowling*
+
+>> You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.- *Maya Angelou*
