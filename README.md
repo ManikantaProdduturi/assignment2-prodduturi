@@ -30,4 +30,13 @@ Paris (nicknamed the “City of light”) is the capital city of France, and the
 --------------------
 ### Tables
 
+The Table below shows the best food items that are avilable in paris which are Unforgettable.
 
+| Food              | Location             | Amount  |
+| ---               | ---                  | ---     |
+| Croissants        | Rue Denoyez          | 6$      |
+| Escargots         | Vieille              | 10$     |
+| Onion soup        | Rue Montorguei       | 7$      |
+| Rue des           | Des Martyrs          | 15$     |
+
+--------------------
