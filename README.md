@@ -15,8 +15,8 @@ Paris (nicknamed the “City of light”) is the capital city of France, and the
 > 5. Keep left to stay on I-29s
 > 6. Turn left onto McGee St
 > 7. Turn right(And finally kansas CIty airport)
->>      1. Take a flight from Kansas city(Required Flight Ticket)
->>      2. Reached Paris(ORY)(Finally you are at your Destination)
+>>    1. Take a flight from Kansas city(Required Flight Ticket)
+>>    2. Reached Paris(ORY)(Finally you are at your Destination)
 
 * Small backpack. Don't take a big bag for your trip to Paris
 * Camera
